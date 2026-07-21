@@ -40,4 +40,4 @@ The system supports CRUD (Create, Read, Update, Delete) operations with authenti
       
 **Asma H**
 
-Prodigy InfoTech Web Development Internship - Task 02
+Prodigy InfoTech Full-Stack Web Development Internship - Task 02
